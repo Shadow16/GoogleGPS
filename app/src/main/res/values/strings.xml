@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoogleGPS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="elige">Elige un destino</string>
+
+    <string name="latitudUno">20.565996</string>
+    <string name="longitudUno">-103.226397</string>
+
+    <string name="latitudDos">20.5999204</string>
+    <string name="longitudDos">-103.386476</string>
+
+    <string-array name="destinos">
+        <item>Escuela</item>
+        <item>Casa</item>
+        <item>Centro de GDL</item>
+    </string-array>
+
+</resources>
